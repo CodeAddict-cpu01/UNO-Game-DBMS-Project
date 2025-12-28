@@ -1,7 +1,7 @@
 # 🃏 UNO Game - Advanced DBMS Project
 [![Java](https://img.shields.io/badge/Language-Java%2017-orange.svg)](https://www.oracle.com/java/)
 [![MySQL](https://img.shields.io/badge/Database-MySQL-blue.svg)](https://www.mysql.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-None-red.svg)](#)
 
 An immersive, database-driven implementation of the classic UNO card game. This project demonstrates high-performance **Real-Time State Synchronization**, **ACID-compliant transactions**, and a **Heuristic-based AI engine**.
 
